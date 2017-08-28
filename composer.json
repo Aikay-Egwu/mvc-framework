@@ -1,0 +1,8 @@
+{
+    "autoload" : {
+        "files": ["Codenest/Config/Config.php"],
+        "psr-4" : {
+            "Codenest\\" : "Codenest"
+        }
+    }
+}
