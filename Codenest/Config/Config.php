@@ -23,10 +23,10 @@ function configure_settings()
     //database settings
     Config::set('host', 'mysql:host=localhost;');
     //database username
-    Config::set('username', 'mappsdbuser');
+    Config::set('username', '');
     //database password
-    Config::set('password', 'nlcQv5to&t6TY7dn');
+    Config::set('password', '');
     //database name
-    Config::set('db_name', 'dbname=mapps_new;');
+    Config::set('db_name', 'dbname=;');
     Config::set('charser', 'charset=utf8mb4');
 }
